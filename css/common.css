@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background: url(/assets/boats-45a.jpg) no-repeat center center/cover;
+    background: url(../boats-45a.jpg) no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
